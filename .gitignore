@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+
+# unused build leftovers — present on disk, deliberately not published
+assets/art/
+assets/donut-pattern.webp

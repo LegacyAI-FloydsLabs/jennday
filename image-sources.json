@@ -1,0 +1,84 @@
+{
+  "observed_date": "2026-10-10",
+  "identity_evidence": {
+    "profile": "https://x.com/Phishngal",
+    "name": "Jenn Day",
+    "location": "Indianapolis, IN",
+    "description": "Art Teacher... Phish Extraordinaire.... Coolest Person Ever...",
+    "matching_user_supplied_handle": "Phishngal"
+  },
+  "images": [
+    {
+      "file": "assets/jenn-portrait.webp",
+      "type": "photograph of the artist",
+      "source_post": "https://x.com/Phishngal/status/1378051682681163780",
+      "source_image": "https://pbs.twimg.com/media/Ex_Ss1XXIAQG9ij?format=webp&name=small",
+      "post_date": "2021-04-02",
+      "post_text": "#NewProfilePic",
+      "identity_basis": "Artist self-posted profile portrait; same artist as current Phishngal profile photograph",
+      "sha256": "8590ec708701b303ef8183567e2d81a20fb2eac580f6a9cc62505c57f1bf3ed0"
+    },
+    {
+      "file": "assets/jenn-teaching.jpg",
+      "type": "photograph of the artist",
+      "source_post": "https://x.com/Phishngal",
+      "source_image": "https://pbs.twimg.com/profile_images/1428708932525121546/C2nVuXqe_400x400.jpg",
+      "identity_basis": "Artist own public profile photograph alongside name Jenn Day, Indianapolis location, art teacher and Phish biography. Same person as self-posted portrait.",
+      "sha256": "8bd31b12ce4146711c536a6430482252b20f9b3cf7f771db413c7b65b6be009b"
+    }
+  ],
+  "artworks": [
+    {
+      "file": "assets/gallery/pour-blues-gold.jpg",
+      "type": "painting by the artist",
+      "source": "Provided directly by the artist's family",
+      "source_file": "IMG_1412.JPG",
+      "source_dimensions": "4032x3024",
+      "delivered_dimensions": "1500x1125",
+      "sha256": "901a70a5f35a1bf22340f394232c677d80a708a114f0fa04a7798fab7d396819",
+      "caption": "Blues, greens, and gold \u2014 the pour resting on the studio table"
+    },
+    {
+      "file": "assets/gallery/meadow-study.jpg",
+      "type": "painting by the artist",
+      "source": "Provided directly by the artist's family",
+      "source_file": "IMG_9013.heic",
+      "source_dimensions": "2283x3680",
+      "delivered_dimensions": "744x1200",
+      "sha256": "505d9db1cd74e51fdace92cf7a03177c4fdd62cdd4cc263304341d3cc53ca92d",
+      "caption": "A painted meadow \u2014 green stems, magenta and gold blooms"
+    },
+    {
+      "file": "assets/gallery/bloom-study.jpg",
+      "type": "painting by the artist",
+      "source": "Provided directly by the artist's family",
+      "source_file": "IMG_7887.JPG",
+      "source_dimensions": "720x960",
+      "delivered_dimensions": "720x960",
+      "sha256": "c3ffa26bd4c918dfb4e2f2bbf363744eb01796ea02125d8f6972e8183df970e9",
+      "caption": "Blooms and coiled line work on deep blue"
+    },
+    {
+      "file": "assets/gallery/pink-pour.jpg",
+      "type": "painting by the artist",
+      "source": "Provided directly by the artist's family",
+      "source_file": "IMG_7131.JPG",
+      "source_dimensions": "720x960",
+      "delivered_dimensions": "720x960",
+      "sha256": "681cf817a860eecd3bc9908d42cdec2e1da622fea4122dcca6c8a49445bca7e8",
+      "caption": "Magenta and blue swept across white"
+    },
+    {
+      "file": "assets/gallery/studio-canvases.jpg",
+      "type": "photograph of the artist's finished work",
+      "source": "Provided directly by the artist's family",
+      "source_file": "IMG_7892.JPG",
+      "source_dimensions": "960x720",
+      "delivered_dimensions": "960x720",
+      "sha256": "66461a491ded826c352a0a32baf9b012d4d195ffc4b9fa68b80b56e7bb9e1ec5",
+      "caption": "A room full of finished work"
+    }
+  ],
+  "caption_note": "No titles, media, or dates were supplied for any artwork. All captions are descriptive of what is visible in the frame only; nothing has been inferred or invented.",
+  "selection_note": "Site images are limited to photographs of Jenn and original artwork made by Jenn and supplied by her family. No student artwork, no stock, no generated illustrations, and no work attributed to other artists. UI color blocks and typography are design elements, not attributed artwork."
+}
